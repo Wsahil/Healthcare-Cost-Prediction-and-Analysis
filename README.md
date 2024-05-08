@@ -27,6 +27,16 @@ The dataset used for this analysis contains the following variables:
 
 We performed exploratory data analysis and data visualization to understand the relationships between the variables and healthcare costs. Various machine learning models, including linear regression, random forest regression, generalized linear models, and support vector machines, were trained and evaluated to predict whether an individual would have expensive healthcare costs or not.
 
+Analyzing our data variables
+
+![image](https://github.com/Wsahil/Healthcare-Cost-Prediction-and-Analysis/assets/71370836/d1d498d9-3449-435f-97e3-862f50f1841e)
+![image](https://github.com/Wsahil/Healthcare-Cost-Prediction-and-Analysis/assets/71370836/7d642e59-57eb-492c-8edf-9c7d8bc8c660)
+![image](https://github.com/Wsahil/Healthcare-Cost-Prediction-and-Analysis/assets/71370836/be3d2045-8bbd-45e2-a27f-dbb08d3917dc)
+![image](https://github.com/Wsahil/Healthcare-Cost-Prediction-and-Analysis/assets/71370836/0fa69715-db48-40ed-b54b-305f2eafcd4a)
+![image](https://github.com/Wsahil/Healthcare-Cost-Prediction-and-Analysis/assets/71370836/790d93d4-60eb-4c6a-94b5-10190e4127e1)
+
+
+
 The key findings from our analysis include:
 
 - Age is a significant factor, with older adults (over 59 years) more likely to have higher healthcare costs.
